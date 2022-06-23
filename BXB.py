@@ -1,2 +1,2 @@
-from BXB import _login()
+from BXB import _login
 _login()
